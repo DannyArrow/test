@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "214812294057",
+    "firebase_url": "https://mchat-master-7d5c8.firebaseio.com",
+    "project_id": "mchat-master-7d5c8",
+    "storage_bucket": "mchat-master-7d5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214812294057:android:13ccfa44020756d8",
+        "android_client_info": {
+          "package_name": "com.example.danilo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214812294057-gv8brn0l6g3dcfq3jrkiikhs8uk9fsf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danilo.chat",
+            "certificate_hash": "5549fe27806e78d72b09d8e6f55b034766e35d6c"
+          }
+        },
+        {
+          "client_id": "214812294057-bn3c326ql22gjsobspm09kro2mgk7225.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2K-SnDRhH1rlqGERdq-2ZUFsoa10cyak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214812294057-bn3c326ql22gjsobspm09kro2mgk7225.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
