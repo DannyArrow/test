@@ -109,7 +109,7 @@ public class NotificationBroadcastReceiver extends BroadcastReceiver {
             }
         });
 
-        databaseReference.child("Users").child(id).addValueEventListener(new ValueEventListener() {
+        databaseReference.child("Users").child(id).addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
               userinformation = dataSnapshot.getValue(Userinformation.class);
