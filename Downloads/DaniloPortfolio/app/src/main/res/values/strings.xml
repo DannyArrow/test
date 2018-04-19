@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Danilo Portfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="about_Danilo">Hi my name is Danilo Sanchez,"\n"
+strong analytical skills looking for opportunities to bring creativity, enthusiasm and energy to a mobile development team.
+Passionate software engineer specialized in mobile technology and the Android platform.
+love learning new topics to improve my android development.
+always determined to continue learning, and pursuing my love for technology
+    </string>
+    <string name="skills">*Java "\n" *Android "\n" *API "\n" *Firebase "\n" *SQL "\n" *Ormlite
+    </string>
+    <string name="work">
+           * Chat App "\n"* Ufo app "\n"* Fotofly App "\n"*  StockPrices App
+    </string>
+
 </resources>
